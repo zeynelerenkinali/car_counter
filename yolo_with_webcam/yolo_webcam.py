@@ -59,7 +59,7 @@ while True:
                 cvzone.putTextRect(imgRegion, f'{currentClass} {conf}', (max(13,x1+13),max(30,y1-15)), scale=0.8, thickness=1, offset=3)
 
 
-    #cv2.imshow("Image", img)
+    # cv2.imshow("Image", img)
     cv2.imshow("ImageRegion", imgRegion)
     cv2.waitKey(0) # when we turn waitkey to zero we can move by keyboard
 
