@@ -1,1 +1,1 @@
-classNames[int(cls)]
+cv2.imshow("Image", img)
