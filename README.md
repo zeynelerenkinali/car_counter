@@ -45,4 +45,4 @@ A simple car counting project that uses YOLOv8 for vehicle detection and trackin
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
